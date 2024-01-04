@@ -106,7 +106,7 @@ public class MainActivity2 extends AppCompatActivity implements View.OnClickList
         answerList5.add(new Answer("B.(a*=b)",false));
         answerList5.add(new Answer("C.(a=b)",false));
         answerList5.add(new Answer("D.(a&=b)",true));
-        list.add(new Question(5,"Giả sử a, b là hai số thực. Biểu thức nào dưới đây viết không đúng theo cúpháp của ngôn ngữ lập trình C:",answerList5));
+        list.add(new Question(5,"Giả sử a, b là hai số thực. Biểu thức nào dưới đây viết không đúng theo cú pháp của ngôn ngữ lập trình C:",answerList5));
 
 
         List<Answer> answerList6 = new ArrayList<>();
